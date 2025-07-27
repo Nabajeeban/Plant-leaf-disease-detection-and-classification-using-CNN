@@ -1,2 +1,15 @@
+This project is focused on detecting and classifying plant leaf diseases using a Convolutional Neural Network (CNN). The model is trained on a dataset containing images of healthy and diseased plant leaves, allowing it to recognize and classify diseases such as leaf spot, blight, rust, etc.
 
-This project leverages a Convolutional Neural Network (CNN) to classify plant diseases using the PlantVillage dataset, which includes 38 different disease classes. The model is designed for real-time disease detection by analyzing images of plant leaves, providing an accessible tool for farmers and agricultural professionals. The system achieves high accuracy and is implemented with a simple web interface where users can upload images to receive instant disease predictions, helping in timely and effective crop management.
+🛠️ Features:
+
+Built using Python, TensorFlow/Keras
+
+Custom CNN architecture for image classification
+
+Dataset preprocessing, augmentation, and model evaluation
+
+Plots for accuracy/loss during training
+
+Real-time predictions on new leaf images
+
+🎯 Goal: Early disease detection to support farmers and agricultural experts with actionable insights.
